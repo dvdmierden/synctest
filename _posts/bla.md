@@ -1,1 +1,10 @@
-bla bla bla
+---
+post_title: bla
+author: dvdmierden
+post_excerpt: ""
+layout: post
+permalink: >
+  http://wpdev.high-teck.com/index.php/2016/11/28/hello-world/
+published: true
+post_date: 2016-11-28 09:27:13
+---

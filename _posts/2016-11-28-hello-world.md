@@ -12,3 +12,10 @@ post_date: 2016-11-28 09:27:13
 Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
 
 [cta url='https://www.yogisan.nl/agenda/' title="CLICK" subtitle="here" color="blue"]
+
+<ol>
+<li>Edited in vim</li>
+<li>Committed & Pushed to github</li>
+<li>Synced in WP</li>
+</ol>
+

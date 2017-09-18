@@ -1,11 +1,11 @@
 ---
-ID: 1
+ID: 2
 post_title: Hello world!
 author: dvdmierden
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wpdev.high-teck.com/index.php/2016/11/28/hello-world/
+  http://wpdev.high-teck.com/index.php/2016/11/28/sample-page/
 published: true
 post_date: 2016-11-28 09:27:13
 ---

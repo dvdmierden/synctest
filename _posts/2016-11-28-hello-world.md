@@ -19,3 +19,4 @@ Welcome to WordPress. This is your first post. Edit or delete it, then start wri
 </ol>
 
 edited in github. should be pushed automagically?
+try again.

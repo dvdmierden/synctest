@@ -17,6 +17,4 @@ Welcome to WordPress. This is your first post. Edit or delete it, then start wri
  	<li>Committed &amp; Pushed to github</li>
  	<li>Synced in WP</li>
 </ol>
-
 edited in github. should be pushed automagically?
-try again.
